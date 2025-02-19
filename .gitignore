@@ -1,0 +1,11 @@
+
+# Ignore all files without an extension
+[!.*]*
+
+# Unignore all with extensions
+!*.*
+
+# Keep all folders
+!*/
+
+
